@@ -1,0 +1,46 @@
+{
+  "id": "12345678-1234-1234-1234-1234567890ab",
+  "dates": [
+    {
+      "date": "2024-06-01T00:00:00Z",
+      "venues": [
+        {
+          "name": "Venue A",
+          "address": "123 Main St, City, Country",
+          "dayType": "Concert"
+        }
+      ],
+      "notes": [
+        {
+          "title": "Sound Check",
+          "note": "Sound check at 4 PM"
+        }
+      ],
+      "schedule": [
+        {
+          "time": "18:00",
+          "title": "Opening Act"
+        },
+        {
+          "time": "20:00",
+          "title": "Main Performance"
+        }
+      ],
+      "hotels": [
+        {
+          "name": "Hotel A",
+          "address": "456 Hotel St, City, Country",
+          "distance": "2 km"
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Alice Johnson",
+          "title": "Event Manager",
+          "phone": "+1234567890",
+          "email": "alice@example.com"
+        }
+      ]
+    }
+  ]
+}
